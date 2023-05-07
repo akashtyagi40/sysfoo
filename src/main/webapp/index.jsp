@@ -67,7 +67,7 @@
 			</div>
 
 		<!-- BG -->
-			<div id="bg"></div>
+			<div id="bg">Hello</div>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
